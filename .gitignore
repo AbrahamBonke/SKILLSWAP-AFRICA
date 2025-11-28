@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+yarn.lock
+
+# Testing
+/coverage
+
+# Production
+/build
+/dist
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.sln
+*.swp
+*.swj
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project-specific
+firebase-debug.log
+skillswap-backend/node_modules/
+copy-logo.js
+setup-logo.bat
+setup-logo.sh
+
+# Old documentation (consolidated into README.md)
+BUILD_COMPLETE.md
+FINAL_STATUS.txt
+FIREBASE_SETUP.md
+QUICK_START.md
+RUN_COMMANDS.md
+SETUP_GUIDE.md
+START_HERE.md
+SYSTEM DESC.txt
+VIDEO_CALL_FIX.md
