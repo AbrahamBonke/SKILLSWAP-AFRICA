@@ -7,6 +7,10 @@ export default defineConfig({
     port: 3000,
     host: true
   },
+  preview: {
+    host: true,
+    allowedHosts: ['skillswapafrica.onrender.com']
+  },
   define: {
     // Provide a browser global for libraries that expect `global`
     global: 'globalThis'
