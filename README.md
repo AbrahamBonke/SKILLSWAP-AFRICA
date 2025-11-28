@@ -2,6 +2,8 @@
 
 **A peer-to-peer skill exchange platform empowering communities through affordable skill-sharing.**
 
+https://skillswapafrica.onrender.com
+click here for a live demo [wait for some minutes for it to boot up]
 ---
 
 ## Overview
